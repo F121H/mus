@@ -1,3 +1,3 @@
 # jmthon
 
-< ع  محاذاة = "اليسار" > < و  أ href = " https://heroku.com/deploy؟template=https://github.com/F121H/mus " >  < IMG  SRC = " HTTPS: // IMG .shields.io / شارة / نشر٪ 20 إلى٪ 20 Heroku-purple؟ style = for-the-شارة & logo = heroku "  width = " 320 "  height = " 58.45 " /> </ a > </ p >
+< ع  محاذاة = "اليسار" > < و  أ href = " https://heroku.com/deploy؟template=https://github.com/F121E/mus " >  < IMG  SRC = " HTTPS: // IMG .shields.io / شارة / نشر٪ 20 إلى٪ 20 Heroku-purple؟ style = for-the-شارة & logo = heroku "  width = " 320 "  height = " 58.45 " /> </ a > </ p >
